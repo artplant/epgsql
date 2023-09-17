@@ -6,3 +6,4 @@ doc/*
 !doc/*.md
 *.idea/*
 *.iml
+ebin
